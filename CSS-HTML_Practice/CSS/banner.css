@@ -1,0 +1,24 @@
+.banner {
+  position: relative;
+}
+
+.banner img {
+  width: 100%;
+}
+
+.banner .welcome {
+  background-color: #feb614;
+  color: white;
+  padding: 40 px;
+  position: absolute;
+  left: 0;
+  top: 15%;
+}
+
+.banner h2 {
+  font-size: pzx;
+}
+
+.banner h2 span {
+  font-size: 1.3em;
+}
